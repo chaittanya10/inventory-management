@@ -229,6 +229,7 @@ The following screenshots demonstrate the successful execution and testing of th
 
 ![Sale](screenshots/sale.png)
 
+
 ### 13. Update and Delete Product
 ![Update Product](screenshots/update-product.png)
 
@@ -236,7 +237,7 @@ The following screenshots demonstrate the successful execution and testing of th
 
 ## Author
 
-**Sumit Bhati**
+**chaittanya**
 
 BCA (AI & DS)
-Enrollment Number: 2501060223
+Enrollment Number: 2501201035
